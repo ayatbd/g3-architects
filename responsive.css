@@ -1,0 +1,93 @@
+@media screen and (max-width: 767.98px) {
+
+  .navbar {
+    flex-direction: column;
+  }
+
+  .navbar ul {
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content-tittle {
+    font-size: 45px;
+  }
+
+  .quick-list {
+    flex-direction: column;
+  }
+
+  .list-images {
+    grid-template-columns: repeat(1, 1fr);
+    width: 100%;
+    padding: 20px;
+  }
+
+  .list-images img {
+    width: 100%;
+  }
+
+  .list-images img {
+    width: 100%;
+  }
+
+  .quick-contents {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .features-wrapper {
+    flex-direction: column;
+  }
+
+  .feature-top {
+    padding-left: 20px;
+  }
+
+  .over-content {
+    left: unset;
+  }
+
+  .portfolio-description {
+    width: unset;
+    text-align: center;
+  }
+
+  .portfolio-wrapper {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .portfolios {
+    flex-direction: column;
+    row-gap: 30px;
+    width: 100%;
+  }
+
+  .portfolio-topper {
+    text-align: center;
+  }
+
+  .sponsor-logo {
+    width: unset;
+    flex-direction: column;
+    row-gap: 50px;
+  }
+
+  .group-wrapper {
+    flex-direction: column;
+  }
+
+  .feature {
+    align-items: center;
+  }
+
+  .group-desc {
+    text-align: center;
+  }
+
+
+}
